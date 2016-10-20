@@ -11,7 +11,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## What is ng2a-sidebar ?
 
-ng2a-sidebar is a navigation sidebar base on json data structure (assets/data/sidebar1.json).
+ng2a-sidebar is a navigation sidebar based on json data structure (assets/data/sidebar1.json).
 
 the 'top' property of the component define the length between th sidebar and the top of the screen.
 
