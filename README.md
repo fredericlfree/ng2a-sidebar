@@ -9,6 +9,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class`.
 
+ng2a-sidebar is a navigation sidebar base on json data structure (assets/data/sidebar1.json).
+
+the 'top' property of the component define the length between th sidebar and the top of the screen.
+
+
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
